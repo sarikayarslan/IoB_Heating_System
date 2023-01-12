@@ -3,9 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data files
+*.xlsx
+*.csv
+
+#Secrets
+secret.h
+secret.py
+
 # C extensions
 *.so
-secret.h
+
 
 # Distribution / packaging
 .Python
